@@ -1,0 +1,66 @@
+[
+  {
+    "camera_id": "CAM_01",
+    "name": "MG Road Junction",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "road": "MG Road",
+    "direction": "EAST"
+  },
+  {
+    "camera_id": "CAM_02",
+    "name": "Brigade Road",
+    "latitude": 12.9712,
+    "longitude": 77.6050,
+    "road": "Brigade Road",
+    "direction": "NORTH"
+  },
+  {
+    "camera_id": "CAM_03",
+    "name": "Richmond Road",
+    "latitude": 12.9629,
+    "longitude": 77.6008,
+    "road": "Richmond Road",
+    "direction": "SOUTH"
+  },
+  {
+    "camera_id": "CAM_04",
+    "name": "Shivajinagar Junction",
+    "latitude": 12.9857,
+    "longitude": 77.6050,
+    "road": "Shivajinagar Road",
+    "direction": "NORTH"
+  },
+  {
+    "camera_id": "CAM_05",
+    "name": "Ulsoor Junction",
+    "latitude": 12.9810,
+    "longitude": 77.6190,
+    "road": "Ulsoor Road",
+    "direction": "EAST"
+  },
+  {
+    "camera_id": "CAM_06",
+    "name": "Cubbon Road",
+    "latitude": 12.9763,
+    "longitude": 77.5993,
+    "road": "Cubbon Road",
+    "direction": "WEST"
+  },
+  {
+    "camera_id": "CAM_07",
+    "name": "Indiranagar Junction",
+    "latitude": 12.9784,
+    "longitude": 77.6408,
+    "road": "100 Feet Road",
+    "direction": "EAST"
+  },
+  {
+    "camera_id": "CAM_08",
+    "name": "Airport Road Junction",
+    "latitude": 12.9795,
+    "longitude": 77.6380,
+    "road": "Airport Road",
+    "direction": "NORTH"
+  }
+]

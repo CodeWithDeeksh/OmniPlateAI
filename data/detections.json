@@ -1,0 +1,186 @@
+[
+  {
+    "event_id": "evt_001",
+    "plate_number": "KA01AB1234",
+    "confidence": 0.96,
+    "camera_id": "CAM_01",
+    "timestamp": "2026-08-25T08:42:00Z",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "direction": "EAST",
+    "vehicle_type": "car",
+    "snapshot_path": "data/snapshots/evt_001.jpg"
+  },
+  {
+    "event_id": "evt_002",
+    "plate_number": "KA01AB1234",
+    "confidence": 0.94,
+    "camera_id": "CAM_04",
+    "timestamp": "2026-08-25T08:50:00Z",
+    "latitude": 12.9857,
+    "longitude": 77.6050,
+    "direction": "NORTH",
+    "vehicle_type": "car",
+    "snapshot_path": "data/snapshots/evt_002.jpg"
+  },
+  {
+    "event_id": "evt_003",
+    "plate_number": "KA01AB1234",
+    "confidence": 0.97,
+    "camera_id": "CAM_05",
+    "timestamp": "2026-08-25T09:01:00Z",
+    "latitude": 12.9810,
+    "longitude": 77.6190,
+    "direction": "EAST",
+    "vehicle_type": "car",
+    "snapshot_path": "data/snapshots/evt_003.jpg"
+  },
+  {
+    "event_id": "evt_004",
+    "plate_number": "KA01AB1234",
+    "confidence": 0.95,
+    "camera_id": "CAM_07",
+    "timestamp": "2026-08-25T09:12:00Z",
+    "latitude": 12.9784,
+    "longitude": 77.6408,
+    "direction": "EAST",
+    "vehicle_type": "car",
+    "snapshot_path": "data/snapshots/evt_004.jpg"
+  },
+  {
+    "event_id": "evt_005",
+    "plate_number": "KA01AB1234",
+    "confidence": 0.93,
+    "camera_id": "CAM_08",
+    "timestamp": "2026-08-25T09:20:00Z",
+    "latitude": 12.9795,
+    "longitude": 77.6380,
+    "direction": "NORTH",
+    "vehicle_type": "car",
+    "snapshot_path": "data/snapshots/evt_005.jpg"
+  },
+
+  {
+    "event_id": "evt_006",
+    "plate_number": "KA05CD6789",
+    "confidence": 0.91,
+    "camera_id": "CAM_02",
+    "timestamp": "2026-08-25T08:35:00Z",
+    "latitude": 12.9712,
+    "longitude": 77.6050,
+    "direction": "NORTH",
+    "vehicle_type": "motorcycle",
+    "snapshot_path": "data/snapshots/evt_006.jpg"
+  },
+  {
+    "event_id": "evt_007",
+    "plate_number": "KA05CD6789",
+    "confidence": 0.95,
+    "camera_id": "CAM_04",
+    "timestamp": "2026-08-25T08:47:00Z",
+    "latitude": 12.9857,
+    "longitude": 77.6050,
+    "direction": "NORTH",
+    "vehicle_type": "motorcycle",
+    "snapshot_path": "data/snapshots/evt_007.jpg"
+  },
+  {
+    "event_id": "evt_008",
+    "plate_number": "KA05CD6789",
+    "confidence": 0.92,
+    "camera_id": "CAM_06",
+    "timestamp": "2026-08-25T09:02:00Z",
+    "latitude": 12.9763,
+    "longitude": 77.5993,
+    "direction": "WEST",
+    "vehicle_type": "motorcycle",
+    "snapshot_path": "data/snapshots/evt_008.jpg"
+  },
+
+  {
+    "event_id": "evt_009",
+    "plate_number": "KA03EF2468",
+    "confidence": 0.98,
+    "camera_id": "CAM_03",
+    "timestamp": "2026-08-25T09:10:00Z",
+    "latitude": 12.9629,
+    "longitude": 77.6008,
+    "direction": "SOUTH",
+    "vehicle_type": "bus",
+    "snapshot_path": "data/snapshots/evt_009.jpg"
+  },
+  {
+    "event_id": "evt_010",
+    "plate_number": "KA03EF2468",
+    "confidence": 0.96,
+    "camera_id": "CAM_01",
+    "timestamp": "2026-08-25T09:22:00Z",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "direction": "EAST",
+    "vehicle_type": "bus",
+    "snapshot_path": "data/snapshots/evt_010.jpg"
+  },
+  {
+    "event_id": "evt_011",
+    "plate_number": "KA03EF2468",
+    "confidence": 0.94,
+    "camera_id": "CAM_06",
+    "timestamp": "2026-08-25T09:31:00Z",
+    "latitude": 12.9763,
+    "longitude": 77.5993,
+    "direction": "WEST",
+    "vehicle_type": "bus",
+    "snapshot_path": "data/snapshots/evt_011.jpg"
+  },
+
+  {
+    "event_id": "evt_012",
+    "plate_number": "KA41GH1357",
+    "confidence": 0.97,
+    "camera_id": "CAM_01",
+    "timestamp": "2026-08-25T10:05:00Z",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "direction": "EAST",
+    "vehicle_type": "car",
+    "snapshot_path": "data/snapshots/evt_012.jpg"
+  },
+  {
+    "event_id": "evt_013",
+    "plate_number": "KA41GH1357",
+    "confidence": 0.95,
+    "camera_id": "CAM_02",
+    "timestamp": "2026-08-25T10:14:00Z",
+    "latitude": 12.9712,
+    "longitude": 77.6050,
+    "direction": "NORTH",
+    "vehicle_type": "car",
+    "snapshot_path": "data/snapshots/evt_013.jpg"
+  },
+
+  {
+    "event_id": "evt_014",
+    "plate_number": "KA09JK4821",
+    "confidence": 0.89,
+    "camera_id": "CAM_05",
+    "timestamp": "2026-08-25T11:20:00Z",
+    "latitude": 12.9810,
+    "longitude": 77.6190,
+    "direction": "EAST",
+    "vehicle_type": "truck",
+    "snapshot_path": "data/snapshots/evt_014.jpg"
+  },
+  {
+    "event_id": "evt_015",
+    "plate_number": "KA09JK4821",
+    "confidence": 0.93,
+    "camera_id": "CAM_07",
+    "timestamp": "2026-08-25T11:34:00Z",
+    "latitude": 12.9784,
+    "longitude": 77.6408,
+    "direction": "EAST",
+    "vehicle_type": "truck",
+    "snapshot_path": "data/snapshots/evt_015.jpg"
+  }
+]

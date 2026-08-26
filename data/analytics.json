@@ -1,0 +1,138 @@
+{
+  "traffic_density": [
+    {
+      "camera_id": "CAM_01",
+      "road": "MG Road",
+      "vehicles_per_hour": 620,
+      "time_window": "08:00-09:00"
+    },
+    {
+      "camera_id": "CAM_02",
+      "road": "Brigade Road",
+      "vehicles_per_hour": 780,
+      "time_window": "08:00-09:00"
+    },
+    {
+      "camera_id": "CAM_03",
+      "road": "Richmond Road",
+      "vehicles_per_hour": 410,
+      "time_window": "09:00-10:00"
+    },
+    {
+      "camera_id": "CAM_04",
+      "road": "Shivajinagar Road",
+      "vehicles_per_hour": 920,
+      "time_window": "08:00-09:00"
+    },
+    {
+      "camera_id": "CAM_05",
+      "road": "Ulsoor Road",
+      "vehicles_per_hour": 680,
+      "time_window": "09:00-10:00"
+    },
+    {
+      "camera_id": "CAM_06",
+      "road": "Cubbon Road",
+      "vehicles_per_hour": 360,
+      "time_window": "09:00-10:00"
+    },
+    {
+      "camera_id": "CAM_07",
+      "road": "100 Feet Road",
+      "vehicles_per_hour": 1150,
+      "time_window": "09:00-10:00"
+    },
+    {
+      "camera_id": "CAM_08",
+      "road": "Airport Road",
+      "vehicles_per_hour": 540,
+      "time_window": "09:00-10:00"
+    }
+  ],
+
+  "congestion": [
+    {
+      "from_camera": "CAM_01",
+      "to_camera": "CAM_04",
+      "travel_time_minutes": 16,
+      "normal_travel_time_minutes": 9,
+      "congestion_level": "HIGH"
+    },
+    {
+      "from_camera": "CAM_04",
+      "to_camera": "CAM_05",
+      "travel_time_minutes": 11,
+      "normal_travel_time_minutes": 8,
+      "congestion_level": "MEDIUM"
+    },
+    {
+      "from_camera": "CAM_05",
+      "to_camera": "CAM_07",
+      "travel_time_minutes": 11,
+      "normal_travel_time_minutes": 7,
+      "congestion_level": "HIGH"
+    },
+    {
+      "from_camera": "CAM_03",
+      "to_camera": "CAM_01",
+      "travel_time_minutes": 12,
+      "normal_travel_time_minutes": 10,
+      "congestion_level": "LOW"
+    }
+  ],
+
+  "origin_destination": [
+    {
+      "origin_zone": "ZONE_A",
+      "destination_zone": "ZONE_B",
+      "vehicle_count": 1240
+    },
+    {
+      "origin_zone": "ZONE_A",
+      "destination_zone": "ZONE_C",
+      "vehicle_count": 860
+    },
+    {
+      "origin_zone": "ZONE_B",
+      "destination_zone": "ZONE_D",
+      "vehicle_count": 1540
+    },
+    {
+      "origin_zone": "ZONE_C",
+      "destination_zone": "ZONE_D",
+      "vehicle_count": 620
+    },
+    {
+      "origin_zone": "ZONE_D",
+      "destination_zone": "ZONE_A",
+      "vehicle_count": 430
+    }
+  ],
+
+  "traffic_trend": [
+    {
+      "time": "06:00",
+      "vehicles_per_hour": 280
+    },
+    {
+      "time": "08:00",
+      "vehicles_per_hour": 920
+    },
+    {
+      "time": "10:00",
+      "vehicles_per_hour": 610
+    },
+    {
+      "time": "13:00",
+      "vehicles_per_hour": 720
+    },
+    {
+      "time": "18:00",
+      "vehicles_per_hour": 1320
+    },
+    {
+      "time": "20:00",
+      "vehicles_per_hour": 980
+    }
+  ]
+}

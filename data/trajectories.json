@@ -1,0 +1,142 @@
+[
+  {
+    "plate_number": "KA01AB1234",
+    "first_seen": "2026-08-25T08:42:00Z",
+    "last_seen": "2026-08-25T09:20:00Z",
+    "detections": [
+      {
+        "camera_id": "CAM_01",
+        "timestamp": "2026-08-25T08:42:00Z",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "direction": "EAST"
+      },
+      {
+        "camera_id": "CAM_04",
+        "timestamp": "2026-08-25T08:50:00Z",
+        "latitude": 12.9857,
+        "longitude": 77.6050,
+        "direction": "NORTH"
+      },
+      {
+        "camera_id": "CAM_05",
+        "timestamp": "2026-08-25T09:01:00Z",
+        "latitude": 12.9810,
+        "longitude": 77.6190,
+        "direction": "EAST"
+      },
+      {
+        "camera_id": "CAM_07",
+        "timestamp": "2026-08-25T09:12:00Z",
+        "latitude": 12.9784,
+        "longitude": 77.6408,
+        "direction": "EAST"
+      },
+      {
+        "camera_id": "CAM_08",
+        "timestamp": "2026-08-25T09:20:00Z",
+        "latitude": 12.9795,
+        "longitude": 77.6380,
+        "direction": "NORTH"
+      }
+    ]
+  },
+  {
+    "plate_number": "KA05CD6789",
+    "first_seen": "2026-08-25T08:35:00Z",
+    "last_seen": "2026-08-25T09:02:00Z",
+    "detections": [
+      {
+        "camera_id": "CAM_02",
+        "timestamp": "2026-08-25T08:35:00Z",
+        "latitude": 12.9712,
+        "longitude": 77.6050,
+        "direction": "NORTH"
+      },
+      {
+        "camera_id": "CAM_04",
+        "timestamp": "2026-08-25T08:47:00Z",
+        "latitude": 12.9857,
+        "longitude": 77.6050,
+        "direction": "NORTH"
+      },
+      {
+        "camera_id": "CAM_06",
+        "timestamp": "2026-08-25T09:02:00Z",
+        "latitude": 12.9763,
+        "longitude": 77.5993,
+        "direction": "WEST"
+      }
+    ]
+  },
+  {
+    "plate_number": "KA03EF2468",
+    "first_seen": "2026-08-25T09:10:00Z",
+    "last_seen": "2026-08-25T09:31:00Z",
+    "detections": [
+      {
+        "camera_id": "CAM_03",
+        "timestamp": "2026-08-25T09:10:00Z",
+        "latitude": 12.9629,
+        "longitude": 77.6008,
+        "direction": "SOUTH"
+      },
+      {
+        "camera_id": "CAM_01",
+        "timestamp": "2026-08-25T09:22:00Z",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "direction": "EAST"
+      },
+      {
+        "camera_id": "CAM_06",
+        "timestamp": "2026-08-25T09:31:00Z",
+        "latitude": 12.9763,
+        "longitude": 77.5993,
+        "direction": "WEST"
+      }
+    ]
+  },
+  {
+    "plate_number": "KA41GH1357",
+    "first_seen": "2026-08-25T10:05:00Z",
+    "last_seen": "2026-08-25T10:14:00Z",
+    "detections": [
+      {
+        "camera_id": "CAM_01",
+        "timestamp": "2026-08-25T10:05:00Z",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "direction": "EAST"
+      },
+      {
+        "camera_id": "CAM_02",
+        "timestamp": "2026-08-25T10:14:00Z",
+        "latitude": 12.9712,
+        "longitude": 77.6050,
+        "direction": "NORTH"
+      }
+    ]
+  },
+  {
+    "plate_number": "KA09JK4821",
+    "first_seen": "2026-08-25T11:20:00Z",
+    "last_seen": "2026-08-25T11:34:00Z",
+    "detections": [
+      {
+        "camera_id": "CAM_05",
+        "timestamp": "2026-08-25T11:20:00Z",
+        "latitude": 12.9810,
+        "longitude": 77.6190,
+        "direction": "EAST"
+      },
+      {
+        "camera_id": "CAM_07",
+        "timestamp": "2026-08-25T11:34:00Z",
+        "latitude": 12.9784,
+        "longitude": 77.6408,
+        "direction": "EAST"
+      }
+    ]
+  }
+]
