@@ -1,0 +1,8 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+ultralytics>=8.0.0        # YOLOv8n for vehicle detection
+easyocr>=1.7.0            # OCR for plate reading
+pytest>=7.4.0
+
+# Optional swap-ins if you get GPU access or want to try alternatives:
+# pytesseract>=0.3.10       # Tesseract alternative to EasyOCR
